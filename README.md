@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ujjwalanand.online/](https://ujjwalanand.online/)
 
-- 📝 I regularly write articles on [https://urnotes.com/](https://urnotes.com/)
+- 📝 I regularly write articles on [https://www.ujjwal.blog/)
 
 - 💬 Ask me about **angular , node js, react , react native**
 
