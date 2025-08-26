@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://ujjwalanand.online/](https://ujjwalanand.online/)
-
-- 📝 I regularly write articles on [https://www.ujjwal.blog/)
 
 - 💬 Ask me about **angular , node js, react , react native**
 
 - 📫 How to reach me **ujjwalanand4277@gmail.com**
 
-- 📄 Know about my experiences [https://ujjwalanand.online/](https://ujjwalanand.online/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
