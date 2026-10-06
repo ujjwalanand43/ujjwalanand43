@@ -13,7 +13,7 @@
 
 | Project | Stack | Status |
 |---|---|---|
-| [LandCopyAI](https://landcopyai.com) | Next.js · Supabase · Multi-model AI pipeline | 🟢 Live |
+| [Smritios](https://smritios.com) | AI · Meeting Intelligence · Full-Stack | 🟢 Live |
 | [AuExpense](https://auexpense.com) | Node.js · Redis · BullMQ · React Native | 🟢 Live on Play Store |
 
 ---
@@ -22,6 +22,7 @@
 
 **Backend** — Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ · JWT · REST/GraphQL  
 **Frontend** — React · Next.js · TypeScript · Tailwind CSS · React Native  
+**AI** — LLMs · AI Agents · Tool Calling · Multi-model AI Pipelines  
 **Infra & Tools** — Docker · Supabase · AWS · Firebase · Git · Figma
 
 ---
